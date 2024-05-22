@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    background-color: aquamarine;
+    border: 1px solid;
+    width: 400px;
+    margin: 10px 0;
+}
+p{
+    font-size: larger;
+    padding: 10px;
+}
+.photo{
+    height: 10px;
+
+}
